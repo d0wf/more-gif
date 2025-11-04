@@ -1,11 +1,11 @@
 {
-    "name": "RosieDark",
-    "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3",
+    "name": "Lofi gif",
+    "description": "same good old theme but lofi",
     "version": "1",
     "authors": [
         {
-            "name": "Rairof",
-            "id": "807170846497570848"
+            "name": "Dowf",
+            "id": "_dowf"
         }
     ],
     "semanticColors": {
@@ -368,7 +368,7 @@
     },
     "background": {
         "blur": 0.1 ,
-        "url": "https://raw.githubusercontent.com/Rairof/Discord-Theme/main/Wallpapers/RosieDarkBG.png",
+        "url": "https://ibb.co/N2xdJm5w",
         "OPACITY": 0
     },
     "plus": {
@@ -387,6 +387,7 @@
     },
     "spec": 2
 }
+
 
 
 
